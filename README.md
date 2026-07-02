@@ -28,7 +28,7 @@ resilient under real-world failure conditions.
 
 ```yaml
 role:        Software Engineer @ a fast-moving startup
-founder_of:  Antre (AI hiring & assessment) · NTS (AI language solutions)
+developer_of:  Antre (AI hiring & assessment) 
 based_in:    NCR, India
 focus:       Agentic AI · Secure Evaluation · Scalable Backend Systems
 currently:   Refining Antre's scoring engine + writing on agentic AI architecture
@@ -83,7 +83,7 @@ Paytm Office, Noida
 
 ### 🧩 Antre
 AI-driven recruitment automation and candidate-assessment platform for the Indian
-private-sector hiring market. Founder-led, end to end.
+private-sector hiring market. Engineer-led, end to end.
 
 **Role:** Founder & Lead Engineer
 
@@ -92,19 +92,18 @@ private-sector hiring market. Founder-led, end to end.
 </td>
 <td width="33%" valign="top">
 
-### 🌐 NTS
-Native Translation Services — an AI language solutions platform architected to
-compete with enterprise players like LanguageLine.
+### 🌐 RCV Core
+Laravel modular package — a package for modular laravel application development.
 
-**Role:** Founder & Architect
+**Role:** Developer & Architect
 
-`DeepL` `Whisper` `ElevenLabs` `Twilio`
+`Packagist` `Laravel` `Modular Architecture` `Open Source`
 
 </td>
 </tr>
 </table>
 
-> 💡 Antre and NTS are commercial products — internals are private, but architecture
+> 💡 Antre is commercial products — internals are private, but architecture
 > notes and open-sourced components are linked below as they're published.
 
 <br/>
