@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Rajat%20Kumar%20Jha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20Secure%20Evaluation&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+secure+agentic+AI+systems;Founder+%40+Antre+%26+NTS;Turning+LLMs+into+production-grade+products;Explainable+%2B+Deterministic+AI+workflows&font=Fira+Code&center=true&width=600&height=45&color=38BDF8&vCenter=true&size=22&pause=1200" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+secure+AI+powered+systems;Developer+%40+Antre+%26+RCV Core;Turning+LLMs+into+production-grade+products;Explainable+%2B+Deterministic+AI+workflows&font=Fira+Code&center=true&width=600&height=45&color=38BDF8&vCenter=true&size=22&pause=1200" />
 
 <br/>
 
