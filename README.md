@@ -102,7 +102,7 @@ Generative UI — links to case studies and notes coming soon.
 ### 📫 Connect
 
 <p align="left">
-  <a href="#">LinkedIn</a> · <a href="https://www.linkedin.com/in/rajat-swe/">Portfolio</a> · <a href="#">Email</a>
+  <a href="#">LinkedIn</a> · <a href="https://www.linkedin.com/in/rajat-swe/">Portfolio</a> · <a href="rajat.kumar319@gmail.com">Email</a>
 </p>
 
 <p align="center"><i>Open to conversations on agentic systems, secure AI evaluation, and applied LLM engineering.</i></p>
