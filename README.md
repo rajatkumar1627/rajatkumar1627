@@ -1,8 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Rajat%20Kumar%20Jha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20Secure%20Evaluation&descAlignY=55&descSize=18" width="100%" />
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e293b&amp;height=200&amp;section=header&amp;text=Rajat%20Kumar%20Jha&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20Secure%20Evaluation&amp;descAlignY=55&amp;descSize=18"
+    width="100%"
+    alt="Rajat Kumar Jha — Full-Stack AI Engineer"
+  />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+secure+AI+powered+systems;Developer+%40+Antre+%26+RCV Core;Turning+LLMs+into+production-grade+products;Explainable+%2B+Deterministic+AI+workflows&font=Fira+Code&center=true&width=600&height=45&color=38BDF8&vCenter=true&size=22&pause=1200" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=50&amp;lines=Building+secure+AI-powered+systems;Developer+%40+Antre+%26+RCV+Core;Turning+LLMs+into+production-grade+products;Building+explainable+%26+deterministic+AI+workflows"
+    alt="Typing animation introducing Rajat Kumar Jha"
+  />
+</p>
 
 <br/>
 
