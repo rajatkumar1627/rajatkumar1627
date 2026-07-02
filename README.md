@@ -43,10 +43,9 @@ Built and presented solo at **AGENT{A}THON NCR 2026** (Paytm Office, Noida).
 
 #### 🧩 Antre — AI Hiring & Assessment Platform
 A recruitment automation and candidate-assessment platform built for the Indian
-private-sector hiring market, with a scoring engine (AIEngine) designed around
-candidate-job fit and a modular Marketing Distribution Platform for multi-tenant
-outreach.
-`Next.js 16` · `MySQL` · `Redis Streams (ioredis)` · `Auth.js v5` · `Docker Compose` · `AWS EC2` · `Resend`
+private-sector hiring market. Founder-led, from product strategy through backend
+architecture and deployment.
+`Next.js` · `AI Scoring` · `Multi-Tenant SaaS`
 
 #### 🌐 NTS — Native Translation Services
 An AI-driven language solutions platform architected to compete with enterprise
@@ -103,7 +102,7 @@ Generative UI — links to case studies and notes coming soon.
 ### 📫 Connect
 
 <p align="left">
-  <a href="#">LinkedIn</a> · <a href="#">Portfolio</a> · <a href="#">Email</a>
+  <a href="#">LinkedIn</a> · <a href="https://www.linkedin.com/in/rajat-swe/">Portfolio</a> · <a href="#">Email</a>
 </p>
 
 <p align="center"><i>Open to conversations on agentic systems, secure AI evaluation, and applied LLM engineering.</i></p>
