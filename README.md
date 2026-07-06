@@ -130,7 +130,7 @@ AI-driven recruitment automation and candidate-assessment platform — a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,php,ts,js,react,nextjs,vue,tailwind,fastapi,laravel,nodejs,mysql,postgres,redis,docker,aws,github,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,php,js,react,nextjs,tailwind,fastapi,laravel,nodejs,mysql,redis,docker,github,git&theme=dark" />
 
 </div>
 
