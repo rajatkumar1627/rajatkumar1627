@@ -1,19 +1,8 @@
 <div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e293b&amp;height=200&amp;section=header&amp;text=Rajat%20Kumar%20Jha&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20AI%20Engineer%20%7C%20Agentic%20Systems%20%26%20Secure%20Evaluation&amp;descAlignY=55&amp;descSize=18"
-    width="100%"
-    alt="Rajat Kumar Jha — Full-Stack AI Engineer"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Rajat%20Kumar%20Jha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Laravel%20Full-Stack%20Engineer%20%7C%20RAG%20%C2%B7%20LangChain%20%C2%B7%20Agentic%20Coding&descAlignY=55&descSize=18" width="100%" />
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=50&amp;lines=Building+secure+AI-powered+systems;Developer+%40+Antre+%26+RCV+Core;Turning+LLMs+into+production-grade+products;Building+explainable+%26+deterministic+AI+workflows"
-    alt="Typing animation introducing Rajat Kumar Jha"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?lines=Laravel+Full-Stack+Software+Engineer;Hands-on+with+RAG%2C+LangChain+%26+Agentic+Coding;Lead+Contributor+%40+RCV-Technologies%2Flaravel-module;Building+Antre+%40+RCV+Technologies&font=Fira+Code&center=true&width=600&height=45&color=38BDF8&vCenter=true&size=22&pause=1200" />
 
 <br/>
 
@@ -31,18 +20,23 @@
 
 ## 🧭 About Me
 
-I design and ship AI-powered systems end to end — from architecture and evaluation
-logic to production deployment. My work sits at the intersection of **agentic AI**,
-**secure evaluation infrastructure**, and **scalable web platforms**, with a strong
-bias toward systems that are explainable, deterministic where it matters, and
-resilient under real-world failure conditions.
+I'm a **Laravel Full-Stack Software Engineer** at RCV Technologies, building
+production web systems since December 2024. Alongside my core Laravel/PHP work,
+I've gone deep on **RAG, LangChain, agentic coding, and vibe coding** — applying
+modern AI engineering practices to real product problems rather than treating them
+as a side interest.
+
+I'm a **lead contributor** to [`laravel-module`](https://github.com/RCV-Technologies/laravel-module),
+an open-source package under RCV Technologies, and I work on **Antre**, the
+company's AI-driven hiring and assessment product.
 
 ```yaml
-role:        Software Engineer @ a fast-moving startup
-developer_of:  Antre (AI hiring & assessment) 
+role:        Laravel Full-Stack Software Engineer @ RCV Technologies
 based_in:    NCR, India
-focus:       Agentic AI · Secure Evaluation · Scalable Backend Systems
-currently:   Refining Antre's scoring engine + writing on agentic AI architecture
+core_stack:  Laravel · PHP · Full-Stack Web Development
+also_hands_on: RAG · LangChain · Agentic Coding · Vibe Coding
+open_source: Lead contributor @ RCV-Technologies/laravel-module
+currently:   Engineering on Antre (RCV Technologies' AI hiring & assessment product)
 ```
 
 <br/>
@@ -53,20 +47,20 @@ currently:   Refining Antre's scoring engine + writing on agentic AI architectur
 <tr>
 <td width="50%" valign="top">
 
-**🤖 Agentic & AI Systems**
-- Agentic AI applications with auditable decision flows
-- Retrieval-Augmented Generation (RAG) pipelines
-- Secure, anti-gaming AI evaluation & scoring engines
-- Local and cloud LLM integration
+**⚙️ Laravel & Full-Stack Engineering**
+- Production Laravel/PHP backend systems
+- REST APIs and full-stack web platforms
+- Open-source Laravel packages & tooling
+- React / Next.js product interfaces
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Product & Platform Engineering**
-- Laravel & FastAPI backend systems
-- React / Next.js product interfaces
-- Multi-tenant SaaS architectures
-- Adapter-based, extensible system design
+**🤖 Applied AI Engineering**
+- RAG (Retrieval-Augmented Generation) pipelines
+- LangChain-based application development
+- Agentic coding workflows
+- Vibe coding — fast, AI-assisted iteration on real features
 
 </td>
 </tr>
@@ -78,6 +72,19 @@ currently:   Refining Antre's scoring engine + writing on agentic AI architectur
 
 <table>
 <tr>
+<td width="33%" valign="top">
+
+### 📦 laravel-module
+Open-source Laravel package I'm a **lead contributor** to — reusable modular
+architecture tooling for Laravel applications.
+
+**Role:** Lead Contributor
+
+[`RCV-Technologies/laravel-module`](https://github.com/RCV-Technologies/laravel-module)
+
+`Laravel` `PHP` `Open Source`
+
+</td>
 <td width="33%" valign="top">
 
 ### 🛡️ ResumeShield AI
@@ -93,39 +100,29 @@ Paytm Office, Noida
 <td width="33%" valign="top">
 
 ### 🧩 Antre
-AI-driven recruitment automation and candidate-assessment platform for the Indian
-private-sector hiring market. Engineer-led, end to end.
+AI-driven recruitment automation and candidate-assessment platform — a
+**RCV Technologies** product. I work on it as part of the engineering team.
 
-**Role:** Founder & Lead Engineer
+**Role:** Software Engineer
 
 `Next.js` `AI Scoring` `Multi-Tenant SaaS`
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 RCV Core
-Laravel modular package — a package for modular laravel application development.
-
-**Role:** Developer & Architect
-
-`Packagist` `Laravel` `Modular Architecture` `Open Source`
 
 </td>
 </tr>
 </table>
 
-> 💡 Antre is commercial products — internals are private, but architecture
-> notes and open-sourced components are linked below as they're published.
+> 💡 Antre is a commercial RCV Technologies product — internals are private. `laravel-module`
+> is public and open for contributions.
 
 <br/>
 
 ## 🎯 Engineering Focus
 
-![](https://img.shields.io/badge/-Explainable%20%26%20Deterministic%20AI-1e293b?style=flat-square)
-![](https://img.shields.io/badge/-Production--Grade%20Agent%20Architecture-1e293b?style=flat-square)
-![](https://img.shields.io/badge/-Secure%20Multi--Tenant%20Design-1e293b?style=flat-square)
-![](https://img.shields.io/badge/-Evaluation%20%26%20Observability-1e293b?style=flat-square)
-![](https://img.shields.io/badge/-Local%20%2F%20Cloud%20LLM%20Integration-1e293b?style=flat-square)
+![](https://img.shields.io/badge/-Laravel%20%2F%20PHP%20Full--Stack-1e293b?style=flat-square)
+![](https://img.shields.io/badge/-Open%20Source%20Contribution-1e293b?style=flat-square)
+![](https://img.shields.io/badge/-RAG%20%2F%20LangChain%20Applications-1e293b?style=flat-square)
+![](https://img.shields.io/badge/-Agentic%20%26%20Vibe%20Coding-1e293b?style=flat-square)
+![](https://img.shields.io/badge/-Production%20Web%20Platforms-1e293b?style=flat-square)
 
 <br/>
 
@@ -142,7 +139,7 @@ Laravel modular package — a package for modular laravel application developmen
 <div align="center">
 
 **AI / ML**
-`RAG` · `Agentic Workflows` · `Embeddings` · `Local LLMs` · `Evaluation Pipelines`
+`RAG` · `LangChain` · `Agentic Coding` · `Vibe Coding` · `Embeddings` · `Local LLMs`
 
 </div>
 
@@ -178,7 +175,7 @@ Generative UI — case studies and notes linked here as they're published.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer" width="100%" />
 
-<i>Open to conversations on agentic systems, secure AI evaluation, and applied LLM engineering.</i>
+<i>Open to conversations on Laravel engineering, open-source collaboration, and applied AI/agentic development.</i>
 <br/>
 <a href="https://linkedin.com/in/rajat-swe">LinkedIn</a> · <a href="mailto:rajat.kumar319@gmail.com">Email</a>
 
