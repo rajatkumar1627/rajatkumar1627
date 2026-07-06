@@ -130,7 +130,7 @@ AI-driven recruitment automation and candidate-assessment platform — a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,php,js,react,nextjs,tailwind,fastapi,laravel,nodejs,mysql,redis,docker,github,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,php,ts,js,react,nextjs,tailwind,fastapi,laravel,nodejs,mysql,redis,docker,aws,github,git&theme=dark" />
 
 </div>
 
@@ -149,7 +149,7 @@ AI-driven recruitment automation and candidate-assessment platform — a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatkumar1627&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatkumar1627&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatkumar1627&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <br/>
